@@ -1,0 +1,15 @@
+.logo{
+    height: 110px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+.storageProgram{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%);
+    font-size: 22px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
